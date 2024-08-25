@@ -10,7 +10,7 @@ Develop programs for a system that manages equipment rentals and returns, genera
 -To generate invoice/bill with name, phone number, shop details, products details, etc and create .txt file to save it 
 -To calculate the total price automatically and add fine if necessary 
 
-#Algorithm
+# Algorithm
 Step 1: Start
 Step 2: Print Welcome Message
 Step 3: Input for Rent, Return or Exit
