@@ -1,0 +1,5 @@
+1,              Tent Set,                   Bara,               Rs,6540,			510
+2,              Camera Lens,                Canon,              Rs,2340,			180
+3,              Speaker,                    Sony,               Rs,3450,			777
+4,              Ladder,                     Sofia,              Rs,8340,			96
+5,              Water Pump,                 Hiwa,               Rs,5430,			687
